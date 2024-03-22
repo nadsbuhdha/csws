@@ -67,7 +67,7 @@ function Page() {
 
   return (
     <div>
-      <h1 class="text-black	text-6xl text-center">GOYA GUMBANI </h1>
+      <h1 className="text-black	text-6xl text-center">GOYA GUMBANI </h1>
     <DefaultGallery imageData={imageData} />
     </div>
   );

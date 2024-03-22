@@ -67,7 +67,7 @@ function Page() {
 
   return (
     <div>
-      <h1 class="text-black	text-6xl text-center mt-5 mb-3">Hip Hop 50th Anniversary Part 1 & Part 2 </h1>
+      <h1 className="text-black	text-6xl text-center mt-5 mb-3">Hip Hop 50th Anniversary Part 1 & Part 2 </h1>
     <DefaultGallery imageData={imageData} />
     </div>
   );
