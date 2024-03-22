@@ -6,7 +6,7 @@ import Footer from "./components/Footer";
 import "@fortawesome/fontawesome-svg-core/styles.css";
 import { config } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false;
-<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript">
+<script src="https://product-gallery.cloudinary.com/all.js" type="text/javascript" defer>
 </script>  
 
 const opensans = Open_Sans ({
