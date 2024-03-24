@@ -153,7 +153,7 @@ function page() {
   <div className="text-black m-4 mt-4 pt-4 pb-4">
 
     <h1 className="text-4xl font-black mt-3 mb-4"> CSWS STUDIOS </h1>
-  <h3 className="text-xl">Based in the heart of Nottingham, our meticulously designed recording rooms provide the ideal environment for capturing your unique sound, while our team of seasoned engineers and producers ensures that every detail is perfected to your satisfaction. Whether you're a solo artist, a band, or a voiceover talent, our studio is equipped to handle projects of any scale and genre. From tracking to mixing, mastering to post-production, we offer a comprehensive suite of services to bring your creative vision to fruition. Step into our studio and experience the professionalism and creativity that sets us apart.</h3>
+  <h3 >Based in the heart of Nottingham, our meticulously designed recording rooms provide the ideal environment for capturing your unique sound, while our team of seasoned engineers and producers ensures that every detail is perfected to your satisfaction. Whether you're a solo artist, a band, or a voiceover talent, our studio is equipped to handle projects of any scale and genre. From tracking to mixing, mastering to post-production, we offer a comprehensive suite of services to bring your creative vision to fruition. Step into our studio and experience the professionalism and creativity that sets us apart.</h3>
   
   </div>
     <div className="m-4">
