@@ -22,7 +22,7 @@ export default function Home() {
       
       <div >
       <h1 className="text-black text-4xl tracking-widest mt-32 mb-32 ml-6 p-5">
-      Cant Stop Wont Stop is {``}
+      Can&rsquo;t Stop Won&rsquo;t Stop{``}
         <ReactTyped
           strings={["a creative studio", "a dynamic events venue", "a collaborative workspace"]}
           typeSpeed={100}
