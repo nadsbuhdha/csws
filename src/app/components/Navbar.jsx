@@ -106,7 +106,7 @@ function Nav() {
               <button
                 onClick={() => setIsOpen(!isOpen)}
                 type="button"
-                className="bg-gray-900 inline-flex items-center justify-center p-2 rounded-md text-black hover:text-white hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
+                className="bg-white inline-flex items-center justify-center p-2 rounded-md text-black hover:text-black focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white"
                 aria-controls="mobile-menu"
                 aria-expanded="false"
               >
@@ -163,35 +163,35 @@ function Nav() {
               <div ref={ref} className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <a
                     href="/"
-                    className="hover:text-g-gray-700 text-black block px-3 py-2 rounded-md text-base font-medium"
+                    className="hover:text-g-gray-700 hover:bg-black hover:text-white  text-black block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Home
                 </a>
 
                 <a
                     href="/studio"
-                    className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                    className="text-black hover:bg-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Studio
                 </a>
 
                 <a
                     href="/events"
-                    className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                    className="text-black hover:bg-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Events
                 </a>
 
                 <a
                   href="/artists"
-                  className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                  className="text-black hover:bg-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Artists 
                 </a>
 
                 <a
                   href="/contact"
-                  className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                  className="text-black hover:bg-black hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
                   Contact
                 </a>
