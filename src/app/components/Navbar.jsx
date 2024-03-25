@@ -162,38 +162,38 @@ function Nav() {
             <div className="md:hidden" id="mobile-menu">
               <div ref={ref} className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
                 <a
-                  href="#"
-                  className="hover:text-g-gray-700 text-black block px-3 py-2 rounded-md text-base font-medium"
+                    href="/"
+                    className="hover:text-g-gray-700 text-black block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Dashboard
+                  Home
                 </a>
 
                 <a
-                  href="#"
-                  className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                    href="/studio"
+                    className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Team
+                  Studio
                 </a>
 
                 <a
-                  href="#"
-                  className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
+                    href="/events"
+                    className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Projects
+                  Events
                 </a>
 
                 <a
-                  href="#"
+                  href="/artists"
                   className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Calendar
+                  Artists 
                 </a>
 
                 <a
-                  href="#"
+                  href="/contact"
                   className="text-black hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Reports
+                  Contact
                 </a>
               </div>
             </div>
